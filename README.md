@@ -51,6 +51,10 @@ Des notebooks interactifs pour explorer les données réelles de cosmologie.
 2. [Les Théories](https://www.youtube.com/watch?v=v-lZ1e9IMNM)
 
 ---
+### 🔹 *Sabine Hossenfelder's Channel* 
+- [Latest Data Challenges 25 Years of Cosmology](https://www.youtube.com/watch?v=Re1ctwcCwgQ)
+
+---
 
 ## 🧠 Pour aller plus loin
 
