@@ -19,7 +19,14 @@ L’objectif est de **comprendre comment les physicien·nes mesurent et modélis
 Le tout accompagné de vidéos, discussions interactives, et expériences de pensée.
 
 ---
+## 📓 Notebooks
 
+Des notebooks interactifs pour explorer les données réelles de cosmologie.
+
+- 🔹 [Lecture des données DESI DR2](Data/read_desi_dr2.ipynb)  
+  *Un exemple d’analyse des données du relevé spectroscopique DESI (Dark Energy Spectroscopic Instrument).*
+
+---
 ## 📺 Liens utiles
 
 ### 🔹 *PBS Spacetime* (en anglais, mais clair et passionnant)
