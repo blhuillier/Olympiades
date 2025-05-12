@@ -24,6 +24,8 @@ Le tout accompagné de vidéos, discussions interactives, et expériences de pen
 
 ### 🔹 *PBS Spacetime* (en anglais, mais clair et passionnant)
 
+- [Sound Waves from the Beginning of Time](https://www.youtube.com/watch?v=PPpUxoeooZk)
+
 **Série sur l'Énergie Noire** :
 1. [Will the Universe Expand Forever?](https://www.youtube.com/watch?v=xZTb6sfHEX8)
 2. [Why the Universe Needs Dark Energy](https://www.youtube.com/watch?v=-4PayaEgEZc)
