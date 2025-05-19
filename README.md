@@ -60,6 +60,14 @@ Des notebooks interactifs pour explorer les données réelles de cosmologie.
 
 Des ressources supplémentaires (activités, documents PDF, références) seront ajoutées au fur et à mesure ici.
 
+### 🌀 Oscillations acoustiques des baryons (BAO)
+
+L'animation ci-dessous illustre comment les oscillations acoustiques primordiales dans le plasma de l'Univers jeune ont laissé une empreinte dans la distribution des galaxies actuelles.
+
+
+![Oscillations acoustiques des baryons](https://galaxies-cosmology-2015.wdfiles.com/local--files/baryon-acoustic-oscillations/bao_1d_anim.gif)
+
+
 ---
 
 📧 *En cas de questions ou suggestions, n’hésitez pas à me contacter !*
